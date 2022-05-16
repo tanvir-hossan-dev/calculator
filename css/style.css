@@ -1,0 +1,33 @@
+.calcu {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 25px 45px;
+  background: rgb(18, 59, 97);
+}
+
+input {
+  width: 176px;
+  border: none;
+  outline: none;
+  border-radius: 16px;
+  font-size: 21px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 0px;
+  width: 40px;
+  height: 40px;
+  border: none;
+  margin: 4px 2px 2px 2px;
+  font-size: 20px;
+}
+
+h3 {
+  color: white;
+  margin: 0px 0px 12px 0px;
+  text-align: center;
+  font-size: 30px;
+}
